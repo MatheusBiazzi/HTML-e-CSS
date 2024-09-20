@@ -15,15 +15,21 @@ header>h1{
     padding: 10px;
     text-align: center;
 }
-i#burger{
+i#burguer{
     background-color: rgb(48, 48,48);
     color: white;
     display: block;
     text-align: center;
     padding: 10px;
+    
+}
+i#burguer:hover{
+    background-color: white;
+    color: black;
+    cursor: pointer;
 }
 menu{
-    display: block;
+    display: none;
 }
 menu > ul{
     list-style-type: none;
