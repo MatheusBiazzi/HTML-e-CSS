@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+*{
+    margin: 0;
+    padding: 0;
+}
+html, body{
+    width: 100vw;
+    height: 100vh;
+    background-color: #233eff;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+h1{
+    color: white;
+    text-shadow: 3px 3px 0px #121f80;
+    padding: 10px;
+}
